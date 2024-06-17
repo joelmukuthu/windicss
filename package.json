@@ -27,71 +27,88 @@
     "./package.json": "./package.json",
     ".": {
       "import": "./index.mjs",
-      "require": "./index.js"
+      "require": "./index.js",
+      "types": "./index.d.ts"
     },
     "./colors": {
       "import": "./colors.mjs",
-      "require": "./colors.js"
+      "require": "./colors.js",
+      "types": "./colors.d.ts"
     },
     "./defaultConfig": {
       "import": "./defaultConfig.mjs",
-      "require": "./defaultConfig.js"
+      "require": "./defaultConfig.js",
+      "types": "./defaultConfig.d.ts"
     },
     "./defaultTheme": {
       "import": "./defaultTheme.mjs",
-      "require": "./defaultTheme.js"
+      "require": "./defaultTheme.js",
+      "types": "./defaultTheme.d.ts"
     },
     "./config": {
       "import": "./config/index.mjs",
-      "require": "./config/index.js"
+      "require": "./config/index.js",
+      "types": "./config/index.d.ts"
     },
     "./lib": {
       "import": "./lib/index.mjs",
-      "require": "./lib/index.js"
+      "require": "./lib/index.js",
+      "types": "./lib/index.d.ts"
     },
     "./plugin": {
       "import": "./plugin/index.mjs",
-      "require": "./plugin/index.js"
+      "require": "./plugin/index.js",
+      "types": "./plugin/index.d.ts"
     },
     "./plugin/aspect-ratio": {
       "import": "./plugin/aspect-ratio/index.js",
-      "require": "./plugin/aspect-ratio/index.js"
+      "require": "./plugin/aspect-ratio/index.js",
+      "types": "./plugin/aspect-ratio/index.d.ts"
     },
     "./plugin/filters": {
       "import": "./plugin/filters/index.js",
-      "require": "./plugin/filters/index.js"
+      "require": "./plugin/filters/index.js",
+      "types": "./plugin/filters/index.d.ts"
     },
     "./plugin/forms": {
       "import": "./plugin/forms/index.js",
-      "require": "./plugin/forms/index.js"
+      "require": "./plugin/forms/index.js",
+      "types": "./plugin/forms/index.d.ts"
     },
     "./plugin/line-clamp": {
       "import": "./plugin/line-clamp/index.js",
-      "require": "./plugin/line-clamp/index.js"
+      "require": "./plugin/line-clamp/index.js",
+      "types": "./plugin/line-clamp/index.d.ts"
     },
     "./plugin/typography": {
       "import": "./plugin/typography/index.js",
-      "require": "./plugin/typography/index.js"
+      "require": "./plugin/typography/index.js",
+      "types": "./plugin/typography/index.d.ts"
     },
     "./plugin/scroll-snap": {
       "import": "./plugin/scroll-snap/index.js",
-      "require": "./plugin/scroll-snap/index.js"
+      "require": "./plugin/scroll-snap/index.js",
+      "types": "./plugin/scroll-snap/index.d.ts"
     },
     "./helpers": {
       "import": "./helpers/index.mjs",
-      "require": "./helpers/index.js"
+      "require": "./helpers/index.js",
+      "types": "./helpers/index.d.ts"
     },
     "./utils": {
       "import": "./utils/index.mjs",
-      "require": "./utils/index.js"
+      "require": "./utils/index.js",
+      "types": "./utils/index.d.ts"
     },
     "./utils/parser": {
       "import": "./utils/parser/index.mjs",
-      "require": "./utils/parser/index.js"
+      "require": "./utils/parser/index.js",
+      "types": "./utils/parser/index.d.ts"
     },
     "./utils/style": {
       "import": "./utils/style/index.mjs",
-      "require": "./utils/style/index.js"
+      "require": "./utils/style/index.js",
+      "types": "./utils/style/index.d.ts"
     }
   },
   "repository": {
